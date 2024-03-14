@@ -29,7 +29,7 @@ I appreciate your support as I continue to explore and contribute to the tech wo
 
 
 ## 📊 Github Stats
-![MaloWinrhy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaloWinrhy)
+![MaloWinrhy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaloWinrhy&theme=dark&background=000000)
 
 ---
 
