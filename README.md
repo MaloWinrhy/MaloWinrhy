@@ -25,7 +25,8 @@ I'm excited about the path ahead, especially in contributing to open source, edu
 
 ## 💖 Support My Work
 I appreciate your support as I continue to explore and contribute to the tech world. Consider buying me a coffee to keep me fueled!
-- [Buy Me A Coffee](https://www.buymeacoffee.com/winrhy)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/winrhy)
+
 
 ## 📊 Github Stats
 ![MaloWinrhy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaloWinrhy&show_icons=true&theme=radical)
