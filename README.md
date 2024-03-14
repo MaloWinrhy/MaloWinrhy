@@ -19,8 +19,8 @@ I'm excited about the path ahead, especially in contributing to open source, edu
 
 
 ## 🌐 Connect with Me
-[![GitHub](https://via.placeholder.com/800x200?text=Visit+My+GitHub+Profile)](https://github.com/MaloWinrhy)
-[![LinkedIn](https://via.placeholder.com/800x200?text=Connect+With+Me+on+LinkedIn)](https://www.linkedin.com/in/malo-winrhy-henry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malo-winrhy-henry)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaloWinrhy)
  [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/winrhy)
 
 ## 💖 Support My Work
