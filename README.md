@@ -19,10 +19,7 @@ I'm excited about the path ahead, especially in contributing to open source, edu
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malo-winrhy-henry)
-[![Reddit](https://img.shields.io/badge/Reddit-Winrhy-orange?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Key_Curve_7333/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaloWinrhy)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/winrhy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malo-winrhy-henry)     [![Reddit](https://img.shields.io/badge/Reddit-Winrhy-orange?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Key_Curve_7333/)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaloWinrhy)     [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/winrhy)
 
 
 ## 💖 Support My Work
