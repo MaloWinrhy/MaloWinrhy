@@ -15,8 +15,6 @@
 - 🎓 **Aspiring Educator in Mobile Development:** I am passionate about teaching and aspire to become a professor and guest speaker on mobile programming languages. My focus areas include efficient and ecological coding practices, emphasizing code quality and sustainability in development.
 - 📢 **Sharing on LinkedIn:** While I may not write a traditional blog, I actively share insights, experiences, and reflections on technology, coding practices, and my journey in the tech world on [LinkedIn](https://www.linkedin.com/in/malo-winrhy-henry). Follow me to join the conversation and learn together.
 
-I'm excited about the path ahead, especially in contributing to open source, educating future developers, and exploring how technology can be used responsibly to make a positive impact. Let's connect and make the digital world a better place, one line of code at a time.
-
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malo-winrhy-henry)     [![Reddit](https://img.shields.io/badge/Reddit-Winrhy-orange?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Key_Curve_7333/)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaloWinrhy)     [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/winrhy)
