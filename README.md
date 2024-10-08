@@ -24,12 +24,13 @@
 I appreciate your support as I continue to explore and contribute to the tech world. Consider buying me a coffee to keep me fueled!
 
  [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/winrhy)
- ![MaloWinrhy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaloWinrhy&theme=highcontrast&hide_border=true)
- ![MaloWinrhy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloWinrhy&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ## 📊 Github Stats
 ![MaloWinrhy's Stats](https://github-readme-stats.vercel.app/api?username=MaloWinrhy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![MaloWinrhy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaloWinrhy&theme=highcontrast&hide_border=true)
+![MaloWinrhy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloWinrhy&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
