@@ -27,9 +27,7 @@ I appreciate your support as I continue to explore and contribute to the tech wo
 
 
 ## 📊 Github Stats
-![MaloWinrhy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaloWinrhy&theme=dark&background=000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloWinrhy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![MaloWinrhy's Stats](https://github-readme-stats.vercel.app/api?username=MaloWinrhy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
