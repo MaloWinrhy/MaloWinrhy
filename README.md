@@ -5,7 +5,7 @@
 - 🌱 **Learning & Growing:** Each day is an opportunity to learn and improve my skills in various mobile programming languages.
 - 🤗 **Open Source:** Just starting out, I'm keen on contributing to open-source projects on GitHub and learning through collaboration.
 - 🕹️ **Passions:** Video games hold a special place in my heart, I enjoy long hikes, and have a companion in my dog Sanka.
-- 📚 **Education:** Currently pursuing a bachelor's degree with plans for a master's. I'm on a professional reconversion journey, transitioning from a bar manager in luxury hospitality and a mixologist to the tech world.
+- 📚 **Education:** Currently pursuing a license's degree with plans for a master's. I'm on a professional reconversion journey, transitioning from a bar manager in luxury hospitality and a mixologist to the tech world.
 - 💡 **Sharing Knowledge:** Passionate about learning from others and sharing what I know.
 - 🚀 **Future Endeavors:** Interested in starting a Twitch account focused on development and contemplating freelancing.
 
