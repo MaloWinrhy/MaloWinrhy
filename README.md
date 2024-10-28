@@ -15,7 +15,7 @@
 
 ## ✨ Key Projects
 - **[EcoBlock](https://github.com/EcoBlock-Network):** Creator and main contributor of EcoBlock, a project focused on decentralized and sustainable technology solutions.
-- **Game Development at Armada Studio:** Worked on multiple game projects, including:
+- **Game Development at Arkada Studio:** Worked on multiple game projects, including:
   - **SparkRiders3000**
   - **Erune**
   - **Erune: Light and Darkness**
