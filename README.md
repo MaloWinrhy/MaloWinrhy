@@ -23,7 +23,7 @@
   - **Sifflard**
 - **Web Development:** Skilled in creating dynamic web applications using modern JavaScript frameworks.
 - **Open Source Contributions:** Actively enhancing Flutter components and Rust-based tools.
-- **Blockchain Development:** Exploring decentralized applications and smart contract development using Solidity.
+- **DLT Development:** Exploring decentralized applications and smart contract development.
 - **Educational Outreach:** Passionate about sharing knowledge and promoting sustainable development practices.
 
 ## 🌐 Connect with Me
