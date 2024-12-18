@@ -1,11 +1,11 @@
 # Hello, I'm Malo Henry aka "Winrhy"!
 
 ## 📃 About Me
-- 👨🏻‍💻 **Software Engineer & Decentralized Systems Developer:** Specializing in mobile, web, and decentralized network development since 2022, transitioning from luxury hospitality to the tech world.
-- 🌱 **Lifelong Learner:** Committed to mastering mobile, web, and blockchain development, with a focus on efficient and sustainable coding practices.
-- 🤝 **Open Source Advocate:** Actively contributing to open-source projects, particularly in the Flutter and Rust ecosystems.
-- 🌍 **Decentralized Systems Enthusiast:** Working on decentralized network systems, including IOTA and Tangle Decentralized System.
-- 📚 **Education:** Pursuing a license's degree with a future goal of obtaining a master's in software engineering.
+- 👨🏻‍💻 **Software Engineer & Decentralized Systems Developer** 
+- 🌱 **Lifelong Learner** 
+- 🤝 **Open Source Advocate** 
+- 🌍 **Decentralized Systems Enthusiast**
+- 📚 **Education** 
 
 ## 🛠️ Skills & Expertise
 - **Programming Languages:** Dart, Rust (Tauri, Tokyo), JavaScript (React, Nest, Nuxt, Vue 3), PHP, Solidity
