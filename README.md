@@ -1,11 +1,11 @@
 # Hello, I'm Malo Henry aka "Winrhy"!
 
 ## 📃 About Me
-- 👨🏻‍💻 **Software Engineer & Decentralized Systems Developer** 
-- 🌱 **Lifelong Learner** 
-- 🤝 **Open Source Advocate** 
-- 🌍 **Decentralized Systems Enthusiast**
-- 📚 **Education** 
+#### 👨🏻‍💻 **Software Engineer & Decentralized Systems Developer** 
+#### 🌱 **Lifelong Learner** 
+#### 🤝 **Open Source Advocate** 
+#### 🌍 **Decentralized Systems Enthusiast**
+#### 📚 **Education** 
 
 ## 🛠️ Skills & Expertise
 - **Programming Languages:** Dart, Rust (Tauri, Tokyo), JavaScript (React, Nest, Nuxt, Vue 3), PHP, Solidity
