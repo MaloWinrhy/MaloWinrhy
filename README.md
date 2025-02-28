@@ -67,7 +67,7 @@ EcoWeave is my eco-friendly decentralized mesh network framework, designed to he
 | 🌗 **Erune: Light and Darkness** | Narrative-driven game exploring the duality of light and darkness. | Game Design, Real-Time Systems, Python Django, Flutter | [Erune: Light & Darkness](https://www.arkada.studio/erune-light-darkness) |
 | 🌊 **Erune: The Legend of the Sea** | Immersive adventure with rich storytelling and dynamic gameplay. | Storytelling, Game Mechanics | No Link |
 | 💬 **Mindblob** | Icebreaker question game. | Python Django, Flutter | [Mindblob](https://www.arkada.studio/mind-blob) |
-| 🎶 **Sifflard** | Ambiance-driven sound-based game. | Python Django, Flutter | [Sifflard](https://www.arkada.studio/sifflard) |
+| 🥓 **Sifflard** | Ambiance game. | Python Django, Flutter | [Sifflard](https://www.arkada.studio/sifflard) |
 
 ---
 
