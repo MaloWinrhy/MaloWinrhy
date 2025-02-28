@@ -62,7 +62,7 @@ EcoWeave is my eco-friendly decentralized mesh network framework, designed to he
 
 | Project | Description | Technologies/Skills | Links |
 |---|---|---|---|
-| 🌍 **EcoBlock** | Decentralized and sustainable solutions for secure data management. | Blockchain, IoT, Decentralized Tech | [EcoBlock GitHub](https://github.com/EcoBlock-Network) |
+| 🌍 **EcoBlock** | Decentralized and sustainable solutions for secure data management. | Tangle, IoT, Decentralized Tech | [EcoBlock GitHub](https://github.com/EcoBlock-Network) |
 | 🚀 **SparkRiders3000** | Fast-paced game challenging traditional mechanics, developed at Arkada Studio. | Python Django, Flutter | [SparkRiders3000](https://www.arkada.studio/spark-riders-3000) |
 | 🌗 **Erune: Light and Darkness** | Narrative-driven game exploring the duality of light and darkness. | Game Design, Real-Time Systems, Python Django, Flutter | [Erune: Light & Darkness](https://www.arkada.studio/erune-light-darkness) |
 | 🌊 **Erune: The Legend of the Sea** | Immersive adventure with rich storytelling and dynamic gameplay. | Storytelling, Game Mechanics | No Link |
