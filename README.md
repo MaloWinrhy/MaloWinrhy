@@ -77,7 +77,7 @@ EcoWeave is my eco-friendly decentralized mesh network framework, designed to he
 |---|---|---|---|
 | 🌐 **EcoWeave** | Framework for eco-friendly decentralized mesh networks on mobile. | Rust, Dart | (Link coming soon) |
 | 📊 **TangleViz** | Visualization tool to explore P2P network topologies. | Rust, Flutter | (Link coming soon) |
-| 🔐 **VaultNote** | Minimalist encryption library for offline notes in Flutter. | Dart | (Link coming soon) |
+| 🔐 **ShadowNotes** | Minimalist encryption app | Rust Flutter | [ShadowNotes GitHub](https://github.com/MaloWinrhy/ShadowNotes.git) |
 | 🎲 **HybridKit** | Toolkit to build hybrid (physical + digital) board games. | Flutter, Python | (Link coming soon) |
 | ⏱️ **[HLC ID](https://github.com/MaloWinrhy/hlc_id.git)** | Hybrid Logical Clock (HLC)-based ID generation. | Rust | [Crates.io](https://crates.io/crates/hlc_id), [Docs](https://docs.rs/hlc_id) |
 | 🔗 **[EcoChain](https://github.com/EcoBlock-Network)** | Decentralized ledger for eco-friendly data storage. | Rust | [EcoBlock GitHub](https://github.com/EcoBlock-Network) |
