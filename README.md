@@ -86,8 +86,8 @@ EcoWeave is my eco-friendly decentralized mesh network framework, designed to he
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MaloWinrhy&theme=highcontrast&hide_border=true" alt="Malo's GitHub Streak Stats" />
+<p> 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Malowinrhy&theme=dark" alt="GitHub Streak" /></a>
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaloWinrhy&show_icons=true&theme=highcontrast&hide_border=true" alt="Malo's GitHub Stats" />
 </p>
 
