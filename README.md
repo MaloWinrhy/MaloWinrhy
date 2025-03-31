@@ -75,7 +75,8 @@ EcoWeave is my eco-friendly decentralized mesh network framework, designed to he
 
 | Name | Description | Technologies | Links |
 |---|---|---|---|
-| 🌐 **EcoWeave** | Framework for eco-friendly decentralized mesh networks on mobile. | Rust, Dart | (Link coming soon) |
+| 🌐 **EcoWeave** | Lib for eco-friendly Tangle. | Rust | (Link coming soon) |
+| 🌐 **EcoWeaveNet** | **eco_weave_net** is a lightweight, modular Gossip Protocol library written in Rust, designed to enable decentralized, peer-to-peer mesh networking for secure data propagation. | Rust | (Link coming soon) |
 | 📊 **TangleViz** | Visualization tool to explore P2P network topologies. | Rust, Flutter | (Link coming soon) |
 | 🔐 **ShadowNotes** | Minimalist encryption app | Rust Flutter | (inDev) [ShadowNotes GitHub](https://github.com/MaloWinrhy/ShadowNotes.git) |
 | 🎲 **HybridKit** | Toolkit to build hybrid (physical + digital) board games. | Flutter, Python | (Link coming soon) |
