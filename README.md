@@ -1,31 +1,31 @@
 # 👋 Hey, I’m Malo Henry (aka Winrhy)
 
-By day, I design **hybrid board games** with [Arkada Studio](https://www.arkada.studio/).  
-By night, I dive into **decentralized systems** and push **Rust** to its limits.
+By day, I’m a hybrid board game designer at **Arkada Studio**. By night, I delve into **decentralized systems** and push **Rust** to its limits.
 
-📍 Here, you’ll find:
-- 🚀 **Personal projects & tech experiments**
-- 🤝 **Open source contributions** to the community
-- ☕ A fair amount of creative chaos, powered by strong coffee
+📍 **Here, you’ll find:**
+
+* 🚀 **Personal projects & tech experiments**
+* 🤝 **Open source contributions** to the community
+* ☕ A fair amount of creative chaos, powered by strong coffee
 
 ---
 
 ## 🚀 Favorite Languages & Tech
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Code-Flutter-blue?logo=flutter&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Code-Rust-orange?logo=rust&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Code-Dart-blue?logo=dart&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Infra-Mesh%20Networks-00C853?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Eco%20Friendly%20Tech-%E2%9C%A8-green?style=for-the-badge" />
-</p> 
+    <img src="https://img.shields.io/badge/Code-Flutter-blue?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Code-Rust-orange?logo=rust&logoColor=white&style=for-the-badge" alt="Rust" />
+    <img src="https://img.shields.io/badge/Code-Dart-blue?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" />
+    <img src="https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+    <img src="https://img.shields.io/badge/Infra-Mesh%20Networks-00C853?style=for-the-badge" alt="Mesh Networks" />
+    <img src="https://img.shields.io/badge/Eco%20Friendly%20Tech-%E2%9C%A8-green?style=for-the-badge" alt="Eco-Friendly Tech" />
+</p>
 
 ---
 
 ## 🌐 Featured Project: EcoWeave
 
-EcoWeave is my eco-friendly decentralized mesh network framework, designed to help developers build peer-to-peer apps without relying on centralized servers.
+**EcoWeave** is an eco-friendly decentralized mesh networking framework I built. It’s designed to help developers create peer-to-peer applications without relying on centralized servers.
 
 🔗 [Check the repo](https://github.com/EcoBlock-Network) | 🌍 Built with Rust & Dart
 
@@ -35,60 +35,64 @@ EcoWeave is my eco-friendly decentralized mesh network framework, designed to he
 
 [![Working on](https://img.shields.io/badge/Working%20on-Mesh%20Protocol%20%7C%20EcoWeave%20%7C%20Hybrid%20Games-brightgreen)](https://github.com/MaloWinrhy)
 
-🚀 Active projects:
-- Building a **Gossip Protocol system** using **Flutter-Rust Bridge**
-- Updating **HlC_id**, my Rust library
-- Expanding **EcoWeave**, my eco-friendly decentralized mesh network library
-- Developing a new **mesh library** entirely in Rust
+**🚀 Active Projects:**
 
-🎲 At **Arkada Studio**, I’m also working on:
-- **Erune: Light and Darkness**
-- **Sifflard**
-- **Mindblob**
+* Building a **Gossip Protocol** system using the **Flutter–Rust Bridge**
+* Updating **HLC\_id**, my Rust library for hybrid logical clocks
+* Expanding **EcoWeave**, my eco-friendly decentralized mesh network library
+* Developing a new **mesh networking** library entirely in Rust
 
-☕ Fueling all of this: way too much coffee and crazy ideas.
+**🎲 Arkada Studio Projects:**
+
+* *Erune: Light and Darkness* – expansion to the Erune hybrid board game
+* *Sifflard* – an ambiance-focused party game
+* *Mindblob* – an icebreaker question game
+
+☕ All this is fueled by copious coffee and a dash of crazy ideas.
 
 ---
 
-## 🌱 What I believe in
+## 🌱 What I Believe In
 
-🔗 Code should be open  
-🌍 Tech should respect the planet  
+🔗 Code should be open
+🌍 Tech should respect the planet
 🔐 Networks should belong to the people
 
 ---
 
 ## 🔑 Key Projects
 
-| Project | Description | Technologies/Skills | Links |
-|---|---|---|---|
-| 🌍 **EcoBlock** | Decentralized and sustainable solutions for secure data management. | Tangle, IoT, Decentralized Tech | [EcoBlock GitHub](https://github.com/EcoBlock-Network) |
-| 🚀 **SparkRiders3000** | Fast-paced game challenging traditional mechanics, developed at Arkada Studio. | Python Django, Flutter | [SparkRiders3000](https://www.arkada.studio/spark-riders-3000) |
-| 🌗 **Erune: Light and Darkness** | Narrative-driven game exploring the duality of light and darkness. | Game Design, Real-Time Systems, Python Django, Flutter | [Erune: Light & Darkness](https://www.arkada.studio/erune-light-darkness) |
-| 🌊 **Erune: The Legend of the Sea** | Immersive adventure with rich storytelling and dynamic gameplay. | Storytelling, Game Mechanics | No Link |
-| 💬 **Mindblob** | Icebreaker question game. | Python Django, Flutter | [Mindblob](https://www.arkada.studio/mind-blob) |
-| 🥓 **Sifflard** | Ambiance game. | Python Django, Flutter | [Sifflard](https://www.arkada.studio/sifflard) |
+| Project                             | Description                                                                                                     | Technologies/Skills                                      | Links                                                                     |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 🌍 **EcoBlock**                     | Decentralized and sustainable solutions for secure data management.                                             | Tangle, IoT, Decentralized Tech                          | [EcoBlock GitHub](https://github.com/EcoBlock-Network)                    |
+| 🚀 **Spark Riders 3000**            | Fast-paced **cooperative hybrid board game** that challenges traditional mechanics, developed at Arkada Studio. | Python (Django), Flutter                                 | [Spark Riders 3000](https://www.arkada.studio/spark-riders-3000)          |
+| 🌗 **Erune: Light and Darkness**    | Narrative-driven **board game expansion** exploring the duality of light and darkness.                          | Game Design, Real-Time Systems, Python (Django), Flutter | [Erune: Light & Darkness](https://www.arkada.studio/erune-light-darkness) |
+| 🌊 **Erune: The Legend of the Sea** | Immersive **board game adventure** with rich storytelling and dynamic gameplay.                                 | Storytelling, Game Mechanics                             | *No link available*                                                       |
+| 💬 **Mindblob**                     | Fun **icebreaker** game that sparks conversations.                                                              | Python (Django), Flutter                                 | [Mindblob](https://www.arkada.studio/mind-blob)                           |
+| 🥓 **Sifflard**                     | Casual **ambiance** party game with a playful theme.                                                            | Python (Django), Flutter                                 | [Sifflard](https://www.arkada.studio/sifflard)                            |
 
 ---
 
 ## 🛠️ Libraries & Tools
 
-| Name | Description | Technologies | Links |
-|---|---|---|---|
-| 🌐 **EcoWeave** | Lib for eco-friendly Tangle. | Rust | (Link coming soon) |
-| 🌐 **EcoWeaveNet** | **eco_weave_net** is a lightweight, modular Gossip Protocol library written in Rust, designed to enable decentralized, peer-to-peer mesh networking for secure data propagation. | Rust | (Link coming soon) |
-| 📊 **TangleViz** | Visualization tool to explore P2P network topologies. | Rust, Flutter | (Link coming soon) |
-| 🔐 **ShadowNotes** | Minimalist encryption app | Rust Flutter | (inDev) [ShadowNotes GitHub](https://github.com/MaloWinrhy/ShadowNotes.git) |
-| 🎲 **HybridKit** | Toolkit to build hybrid (physical + digital) board games. | Flutter, Python | (Link coming soon) |
-| ⏱️ **[HLC ID](https://github.com/MaloWinrhy/hlc_id.git)** | Hybrid Logical Clock (HLC)-based ID generation. | Rust | [Crates.io](https://crates.io/crates/hlc_id), [Docs](https://docs.rs/hlc_id) |
-| 🔗 **[EcoChain](https://github.com/EcoBlock-Network)** | Decentralized ledger for eco-friendly data storage. | Rust | [EcoBlock GitHub](https://github.com/EcoBlock-Network) |
+| Name               | Description                                                                                                                 | Technologies    | Links                                                                     |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------- |
+| 🌐 **EcoWeave**    | Library for an eco-friendly **Tangle** (decentralized network) implementation.                                              | Rust            | *(Link coming soon)*                                                      |
+| 🌐 **EcoWeaveNet** | Lightweight, modular **gossip protocol** library in Rust for decentralized P2P mesh networking and secure data propagation. | Rust            | *(Link coming soon)*                                                      |
+| 📊 **TangleViz**   | Visualization tool to explore peer-to-peer network topologies.                                                              | Rust, Flutter   | *(Link coming soon)*                                                      |
+| 🔐 **ShadowNotes** | Minimalist **encryption app** (secure note-taking).                                                                         | Rust, Flutter   | *(in development)* \[[GitHub](https://github.com/MaloWinrhy/ShadowNotes)] |
+| 🎲 **HybridKit**   | Toolkit to build **hybrid** (physical + digital) board games.                                                               | Flutter, Python | *(Link coming soon)*                                                      |
+| ⏱️ **HLC\_id**     | Hybrid Logical Clock (HLC) based unique ID generator (Rust library).                                                        | Rust            | [Crate](https://crates.io/crates/hlc_id) · [Docs](https://docs.rs/hlc_id) |
+| 🔗 **EcoChain**    | Decentralized ledger for eco-friendly data storage (part of the EcoBlock project).                                          | Rust            | [EcoBlock GitHub](https://github.com/EcoBlock-Network)                    |
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-<p> 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Malowinrhy&theme=dark" alt="GitHub Streak" /></a>
+<p>
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MaloWinrhy&theme=dark" alt="GitHub Streak" />
+    </a>
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaloWinrhy&show_icons=true&theme=highcontrast&hide_border=true" alt="Malo's GitHub Stats" />
 </p>
 
@@ -108,13 +112,13 @@ EcoWeave is my eco-friendly decentralized mesh network framework, designed to he
     </a>
 </p>
 
-I’m always happy to connect with passionate devs — especially those who aren’t afraid to break what they just built.
+I’m always happy to connect with passionate developers — especially those who aren’t afraid to break what they’ve just built.
 
 ---
 
 ## ⚡ Fun Fact
 
-_"I design games by day, and break centralized systems by night."_
+*"I design games by day, and break centralized systems by night."*
 
 ---
 
@@ -122,6 +126,4 @@ _"I design games by day, and break centralized systems by night."_
 
 **Build. Break. Repeat.**
 
-
-
-![Malo Henry LinkedIn](https://github.com/user-attachments/assets/278a81bb-83a8-44c5-aa0e-e37478d9253e)
+&#x20;*Banner featuring the hybrid board game **Spark Riders 3000** and Arkada Studio branding.*
