@@ -126,4 +126,4 @@ I’m always happy to connect with passionate developers — especially those wh
 
 **Build. Break. Repeat.**
 
-&#x20;*Banner featuring the hybrid board game **Spark Riders 3000** and Arkada Studio branding.*
+
