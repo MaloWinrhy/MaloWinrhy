@@ -93,7 +93,6 @@ By day, I’m a hybrid board game designer at **Arkada Studio**. By night, I del
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=MaloWinrhy&theme=dark" alt="GitHub Streak" />
     </a>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaloWinrhy&show_icons=true&theme=highcontrast&hide_border=true" alt="Malo's GitHub Stats" />
 </p>
 
 ---
