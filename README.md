@@ -89,11 +89,7 @@ By day, I’m a hybrid board game designer at **Arkada Studio**. By night, I del
 
 ## 📊 GitHub Stats & Activity
 
-<p>
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MaloWinrhy&theme=dark" alt="GitHub Streak" />
-    </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaloWinrhy&theme=slateorange)](https://git.io/streak-stats)
 
 ---
 
