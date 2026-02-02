@@ -1,8 +1,27 @@
-Most digital infrastructures are built around the centralization of power and decision-making.
-This approach simplifies control, but creates structural fragilityand concentrates responsibility.
+## Systems · Constraints · Decentralization
 
-Alternative ways of designing systems exist. They rely on distributing responsibilities,rights, and decision-making across the system.
-In practice, this leads to systems designed to operateunder constraints : unstable networks, limited resources,and the absence of central coordination.
+Most digital infrastructures centralize power and decision-making.  
+This simplifies control, but creates fragility and concentrates responsibility.
 
-Currently work in a hybrid game studio,designing systems that connect physical and digital spaces.
-Alongside this professional work,decentralized systems remain a strong personal area of interestand exploration, even when not addressed directly in production.
+Other ways of designing systems exist.  
+They distribute responsibility, rights, and decision-making by design.
+
+Systems built this way must operate under constraints:
+unstable networks, limited resources,
+and no central coordination.
+
+> Architecture shapes responsibility.
+
+I work in a hybrid game studio,
+designing systems at the intersection of physical and digital spaces.
+
+Decentralized systems remain a strong personal area of exploration,
+even when not addressed directly in production.
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,python,flutter,linux,git" />
+</p>
+
+If this way of thinking resonates,you can reach me via GitHub.
