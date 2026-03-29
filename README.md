@@ -84,6 +84,3 @@ I go deep when it matters (Rust, P2P, CRDTs, consensus), and wide when the proje
   <sub>If you're into distributed systems, low-level Rust, or just like watching things get built — <a href="https://github.com/MaloWinrhy?tab=followers"><strong>follow along</strong></a>.</sub>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MaloWinrhy&style=flat-square&color=58a6ff&label=visitors" alt="Profile Views"/>
-</p>
