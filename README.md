@@ -34,7 +34,6 @@ I go deep when it matters (Rust, P2P, CRDTs, consensus), and wide when the proje
 | | |
 |---|---|
 | 🔩 **[hlc_id](https://github.com/MaloWinrhy/hlc_id)** | Hybrid Logical Clock IDs in Rust — deterministic, conflict-free identifiers for distributed systems. |
-| ⛓️ **[EcoBlock](https://github.com/EcoBlock-Network)** | A full modular blockchain stack — [core](https://github.com/EcoBlock-Network/ecoblock-core) · [crypto](https://github.com/EcoBlock-Network/ecoblock-crypto) · [gossip](https://github.com/EcoBlock-Network/ecoblock-gossip) · [bridge](https://github.com/EcoBlock-Network/ecoblock-bridge). All Rust, from scratch. |
 | 🧠 **[ai-mnist](https://github.com/MaloWinrhy/ai-mnist)** | Neural network MLP in pure Rust. No frameworks, just math. |
 | 🦀 **`???`** | Something new is coming. It will be Rust. |
 
