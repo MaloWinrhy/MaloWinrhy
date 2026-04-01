@@ -33,8 +33,6 @@ I go deep when it matters (Rust, P2P, CRDTs, consensus), and wide when the proje
 
 | | |
 |---|---|
-| 🔩 **[hlc_id](https://github.com/MaloWinrhy/hlc_id)** | Hybrid Logical Clock IDs in Rust — deterministic, conflict-free identifiers for distributed systems. |
-| 🧠 **[ai-mnist](https://github.com/MaloWinrhy/ai-mnist)** | Neural network MLP in pure Rust. No frameworks, just math. |
 | 🦀 **`???`** | Something new is coming. It will be Rust. |
 
 ---
