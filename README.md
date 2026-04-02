@@ -29,7 +29,6 @@ When the project needs it, I go wider: Go, Python, React, Kubernetes, Flutter. B
 ### `> building`
 
 | | |
-|---|---|
 |[`convergent`](https://github.com/MaloWinrhy/convergent) | Composable CRDTs for decentralized systems — GCounter, PNCounter, LWW-Register, OR-Set |
 |[`hlc_id`](https://github.com/MaloWinrhy/hlc_id) | Hybrid Logical Clock IDs for distributed event ordering |
 |[`json_cleaner`](https://github.com/MaloWinrhy/json_cleaner) | CLI tool to strip null/empty values from JSON — on [crates.io](https://crates.io/crates/json_cleaner) |
